@@ -2,8 +2,8 @@
   {
     "outboundTag": "block",
     "domain": [
-	  "360.cn",
-	  "360.com",
+      "360.cn",
+      "360.com",
       "2345.cc",
       "2345.cn",
       "2345.com"
@@ -26,6 +26,7 @@
     "outboundTag": "direct",
     "domain": [
       "domain:msn.com",
+      "domain:songruihua.com",
       "domain:bitwarden.com",
       "domain:bitwarden.net",
       "domain:mousegesturesapi.com"
