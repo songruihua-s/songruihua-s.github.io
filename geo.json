@@ -20,7 +20,7 @@
     "outboundTag": "proxy",
     "domain": [
       "pugetsystems.com",
-      "github.com"
+      "github.com",
       "onedrive.live.com"
     ]
   },
