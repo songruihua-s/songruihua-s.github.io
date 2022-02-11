@@ -56,7 +56,9 @@
   {
     "outboundTag": "proxy",
     "ip": [
-      "geoip:telegram"
+      "geoip:telegram",
+      "geoip:twitter",
+      "geoip:google"
     ],
     "domain": [
       "geosite:gfw",
