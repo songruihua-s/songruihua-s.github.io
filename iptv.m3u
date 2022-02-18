@@ -19,7 +19,7 @@ http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=100000000100002434
 http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000003736&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="移动·央视", CCTV-9 纪录 高清
 http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000014583&livemode=1&stbId=2&channel-id=ystenlive
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="移动·央视", CCTV-10 科教 高清
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10kj" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="移动·央视", CCTV-10 科教 高清
 http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000023734&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="移动·央视", CCTV-11 戏曲 高清
 http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000002000019789&livemode=1&stbId=2&channel-id=ystenlive
