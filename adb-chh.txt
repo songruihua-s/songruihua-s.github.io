@@ -1,0 +1,34 @@
+    !------------Chiphell------------
+    !首页新闻和热门
+    www.chiphell.com##.chip_topmain
+
+    !首页文化和专题
+    www.chiphell.com##.chip_index_wh
+    www.chiphell.com##.chip_index_zt
+
+    !论坛页最新评测和活动
+    www.chiphell.com###diy1
+
+    !帖子勋章
+    www.chiphell.com##.md_ctrl
+
+    !帖子签名
+    www.chiphell.com##.plm
+
+
+    !------------百度------------
+    !搜索结果侧栏
+    www.baidu.com###content_right
+
+
+    !------------B站------------
+    !搜索框热搜
+    bilibili.com##.suggest-wrap
+    bilibili.com##.trending
+
+    !搜索框默认值(仅不可见，实际仍可搜索，可鼠标悬停查看)
+    bilibili.com##.nav-search-keyword::placeholder
+    bilibili.com##.nav-search-input::placeholder
+
+    !直播间播放器下方横幅广告
+    live.bilibili.com##.flip-view
