@@ -20,10 +20,13 @@
     "outboundTag": "proxy",
     "domain": [
       "pugetsystems.com",
-      "git22222hub.com",
-      "github222222assets.com",
+      "github.com",
+      "githubassets.com",
       "fractal-design.com",
-      "live2222.com"
+      "domain:storage.live.com,"
+      "onedrive.live.com,"
+      "self.events.data.microsoft.com,"
+      "crl.microsoft.com"
     ]
   },
   {
