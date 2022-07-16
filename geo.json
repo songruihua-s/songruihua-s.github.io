@@ -8,26 +8,30 @@
       "2345.cn",
       "2345.com",
       "sogou.com"
-    ]
+    ],
+    "enabled": true
   },
   {
     "outboundTag": "block",
     "domain": [
       "geosite:category-ads-all"
-    ]
+    ],
+    "enabled": true
   },
   {
+    "inboundTag": [],
     "outboundTag": "proxy",
     "domain": [
-      "pugetsystems.com",
       "github.com",
-      "githubassets.com",
-      "fractal-design.com",
-      "domain:storage.live.com,"
-      "onedrive.live.com,"
-      "self.events.data.microsoft.com,"
-      "crl.microsoft.com"
-    ]
+      "li22222ve.com",
+      "bn1305.storage.l2222ive.com",
+      "domain:storage.live.com",
+      "onedrive.live.com",
+      "self.events.data.microsoft.com",
+      "crl.microsoft.com",
+      "pugetsystems.com"
+    ],
+    "enabled": true
   },
   {
     "outboundTag": "direct",
@@ -37,7 +41,8 @@
       "domain:bitwarden.com",
       "domain:bitwarden.net",
       "domain:mousegesturesapi.com"
-    ]
+    ],
+    "enabled": true
   },
   {
     "outboundTag": "direct",
@@ -55,14 +60,13 @@
       "geosite:tld-cn",
       "geosite:category-games",
       "geosite:speedtest"
-    ]
+    ],
+    "enabled": true
   },
   {
     "outboundTag": "proxy",
     "ip": [
-      "geoip:telegram",
-      "geoip:twitter",
-      "geoip:google"
+      "geoip:telegram"
     ],
     "domain": [
       "geosite:gfw",
@@ -71,10 +75,12 @@
       "geosite:tld-!cn",
       "geosite:google",
       "geosite:facebook"
-    ]
+    ],
+    "enabled": true
   },
   {
     "port": "0-65535",
-    "outboundTag": "direct"
+    "outboundTag": "direct",
+    "enabled": true
   }
 ]
