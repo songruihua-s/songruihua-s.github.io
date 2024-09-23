@@ -3,7 +3,7 @@
 ! Title: ADB-SRH
 ! Last modified: 23 Sep 2024 07:51 UTC
 ! Expires: 1 hours (update frequency)
-! Homepage: https://s.songruihua.com/adb/srh.txt
+! Homepage: https://github.com/songruihua-s/songruihua-s.github.io/blob/master/adb/srh.txt
 
 ! --------------------------CHH----------------------
 ||chiphell.com/static/image/common/logo.png
