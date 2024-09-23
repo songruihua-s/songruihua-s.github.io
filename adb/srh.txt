@@ -35,6 +35,8 @@ chiphell.com###toptb
 chiphell.com###frt
 chiphell.com##.xs0
 chiphell.com###ft
+chiphell.com##.fa_fav
+chiphell.com###a_favorite
 
 
 ! --------------------------JD----------------------
@@ -43,3 +45,7 @@ chiphell.com###ft
 jd.com##.promotional-top
 jd.com###J_promo_lk
 jd.com##.promo_lk
+
+! --------------------------GG----------------------
+google.com###logo
+google.com###SIvCob
