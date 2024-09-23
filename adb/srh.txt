@@ -27,7 +27,6 @@
 ||chiphell.com/static/image/common/chh18.png
 ||chiphell.com/static/image/common/chh19.png
 ||chiphell.com/static/image/common/chh20.png
-! chiphell.com##.z-会导致贴内回复红色按钮消失所以注释掉
 chiphell.com##.ptn.xg2
 chiphell.com##.ptn.xg2
 chiphell.com##.bm_c.cl.pbn
