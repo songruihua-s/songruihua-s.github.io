@@ -1,1 +1,46 @@
+[Adblock Plus 3.1]
+! Version: 202409231610
+! Title: ADB-SRH
+! Last modified: 23 Sep 2024 07:51 UTC
+! Expires: 1 hours (update frequency)
+! Homepage: https://s.songruihua.com/abb/srh/txt
 
+! --------------------------CHH----------------------
+||chiphell.com/static/image/common/logo.png
+||chiphell.com/static/image/common/gay.png
+||chiphell.com/static/image/common/chh2.png
+||chiphell.com/static/image/common/chh3.png
+||chiphell.com/static/image/common/chh4.png
+||chiphell.com/static/image/common/chh5.png
+||chiphell.com/static/image/common/chh6.png
+||chiphell.com/static/image/common/chh7.png
+||chiphell.com/static/image/common/chh8.png
+||chiphell.com/static/image/common/chh9.png
+||chiphell.com/static/image/common/chh10.png
+||chiphell.com/static/image/common/chh11.png
+||chiphell.com/static/image/common/chh12.png
+||chiphell.com/static/image/common/chh13.png
+||chiphell.com/static/image/common/chh14.png
+||chiphell.com/static/image/common/chh15.png
+||chiphell.com/static/image/common/chh16.png
+||chiphell.com/static/image/common/chh17.png
+||chiphell.com/static/image/common/chh18.png
+||chiphell.com/static/image/common/chh19.png
+||chiphell.com/static/image/common/chh20.png
+chiphell.com##.z
+chiphell.com##.ptn.xg2
+chiphell.com##.ptn.xg2
+chiphell.com##.bm_c.cl.pbn
+chiphell.com##.lock
+chiphell.com###pt
+chiphell.com##.bm.cl
+
+
+
+
+! --------------------------JD----------------------
+||img10.360buyimg.com/img/jfs/t1/176863/16/41608/14330/668e3421F64b41094/15c9d9130b980a51.png
+||img13.360buyimg.com/babel/jfs/t20270922/234533/23/25974/38241/66efedf9Fb29bd950/29499399c684e391.png.avif
+jd.com##.promotional-top
+jd.com###J_promo_lk
+jd.com##.promo_lk
