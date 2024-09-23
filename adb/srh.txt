@@ -31,7 +31,7 @@ chiphell.com##.ptn.xg2
 chiphell.com##.ptn.xg2
 chiphell.com##.bm_c.cl.pbn
 chiphell.com##.lock
-chiphell.com##.bm.cl
+chiphell.com###pt
 chiphell.com###toptb
 
 
