@@ -32,9 +32,9 @@ chiphell.com##.ptn.xg2
 chiphell.com##.bm_c.cl.pbn
 chiphell.com##.lock
 chiphell.com###toptb
-
-
-
+chiphell.com###frt
+chiphell.com##.xs0
+chiphell.com###ft
 
 ! --------------------------JD----------------------
 ||img10.360buyimg.com/img/jfs/t1/176863/16/41608/14330/668e3421F64b41094/15c9d9130b980a51.png
