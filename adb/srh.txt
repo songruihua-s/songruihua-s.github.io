@@ -27,6 +27,7 @@
 ||chiphell.com/static/image/common/chh18.png
 ||chiphell.com/static/image/common/chh19.png
 ||chiphell.com/static/image/common/chh20.png
+||chiphell.com/static/image/common/desk.png
 chiphell.com##.ptn.xg2
 chiphell.com##.ptn.xg2
 chiphell.com##.bm_c.cl.pbn
@@ -37,7 +38,9 @@ chiphell.com##.xs0
 chiphell.com###flk
 chiphell.com##.fa_fav
 chiphell.com###a_favorite
-
+chiphell.com###nv
+chiphell.com##.user_avatar
+||chiphell.com/static/image/common/qq_big.gif
 
 ! --------------------------JD----------------------
 ||img10.360buyimg.com/img/jfs/t1/176863/16/41608/14330/668e3421F64b41094/15c9d9130b980a51.png
