@@ -34,7 +34,7 @@ chiphell.com##.lock
 chiphell.com###toptb
 chiphell.com###frt
 chiphell.com##.xs0
-chiphell.com###ft
+chiphell.com###flk
 chiphell.com##.fa_fav
 chiphell.com###a_favorite
 
