@@ -4,7 +4,6 @@
 ! Last modified: 23 Sep 2024 07:51 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://github.com/songruihua-s/songruihua-s.github.io/blob/master/adb/srh.txt
-
 ! --------------------------CHH----------------------
 ||chiphell.com/static/image/common/logo.png
 ||chiphell.com/static/image/common/gay.png
@@ -28,6 +27,7 @@
 ||chiphell.com/static/image/common/chh19.png
 ||chiphell.com/static/image/common/chh20.png
 ||chiphell.com/static/image/common/desk.png
+||chiphell.com/static/image/common/qq_big.gif
 chiphell.com##.ptn.xg2
 chiphell.com##.ptn.xg2
 chiphell.com##.bm_c.cl.pbn
@@ -40,15 +40,12 @@ chiphell.com##.fa_fav
 chiphell.com###a_favorite
 chiphell.com###nv
 chiphell.com##.user_avatar
-||chiphell.com/static/image/common/qq_big.gif
-
 ! --------------------------JD----------------------
 ||img10.360buyimg.com/img/jfs/t1/176863/16/41608/14330/668e3421F64b41094/15c9d9130b980a51.png
 ||img13.360buyimg.com/babel/jfs/t20270922/234533/23/25974/38241/66efedf9Fb29bd950/29499399c684e391.png.avif
 jd.com##.promotional-top
 jd.com###J_promo_lk
 jd.com##.promo_lk
-
 ! --------------------------GG----------------------
 google.com###logo
 google.com###SIvCob
