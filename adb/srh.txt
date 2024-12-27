@@ -42,6 +42,8 @@ chiphell.com###nv
 chiphell.com##.user_avatar
 chiphell.com##.xs1.xw0.i
 chiphell.com##.pm2
+chiphell.com###thread_types
+chiphell.com##.ttp.bm.cl.cttp
 ! --------------------------JD----------------------
 ||img10.360buyimg.com/img/jfs/t1/176863/16/41608/14330/668e3421F64b41094/15c9d9130b980a51.png
 ||img13.360buyimg.com/babel/jfs/t20270922/234533/23/25974/38241/66efedf9Fb29bd950/29499399c684e391.png.avif
