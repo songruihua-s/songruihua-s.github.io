@@ -28,6 +28,7 @@
 ||chiphell.com/static/image/common/chh20.png
 ||chiphell.com/static/image/common/desk.png
 ||chiphell.com/static/image/common/qq_big.gif
+||chiphell.com/static/image/common/diy.jpg
 chiphell.com##.ptn.xg2
 chiphell.com##.ptn.xg2
 chiphell.com##.bm_c.cl.pbn
