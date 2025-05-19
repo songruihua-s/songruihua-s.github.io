@@ -54,3 +54,6 @@ jd.com##.promo_lk
 ! --------------------------GG----------------------
 google.com###logo
 google.com###SIvCob
+! --------------------------NGA----------------------
+bbs.nga.cn##.iconfont
+bbs.nga.cn###custombg
