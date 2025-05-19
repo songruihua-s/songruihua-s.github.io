@@ -57,3 +57,4 @@ google.com###SIvCob
 ! --------------------------NGA----------------------
 bbs.nga.cn##.iconfont
 bbs.nga.cn###custombg
+||img4.nga.178.com/ngabbs/nga_classic/logoshadow6.png
